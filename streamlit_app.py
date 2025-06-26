@@ -1,5 +1,4 @@
 import streamlit as st
-
 from math import floor
 
 def format_seconds_to_mmss(total_seconds):
